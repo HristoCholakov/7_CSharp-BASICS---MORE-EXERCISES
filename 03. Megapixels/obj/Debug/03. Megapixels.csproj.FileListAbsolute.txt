@@ -1,0 +1,5 @@
+D:\SoftUni\2\techmodule\7_CSharp BASICS - MORE EXERCISES\03. Megapixels\bin\Debug\_03.Megapixels.exe.config
+D:\SoftUni\2\techmodule\7_CSharp BASICS - MORE EXERCISES\03. Megapixels\bin\Debug\_03.Megapixels.exe
+D:\SoftUni\2\techmodule\7_CSharp BASICS - MORE EXERCISES\03. Megapixels\bin\Debug\_03.Megapixels.pdb
+D:\SoftUni\2\techmodule\7_CSharp BASICS - MORE EXERCISES\03. Megapixels\obj\Debug\_03.Megapixels.exe
+D:\SoftUni\2\techmodule\7_CSharp BASICS - MORE EXERCISES\03. Megapixels\obj\Debug\_03.Megapixels.pdb

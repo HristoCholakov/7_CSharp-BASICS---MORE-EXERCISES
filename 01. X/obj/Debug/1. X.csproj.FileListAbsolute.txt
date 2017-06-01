@@ -1,0 +1,6 @@
+D:\SoftUni\2\techmodule\7_CSharp BASICS - MORE EXERCISES\1. X\bin\Debug\_1.X.exe.config
+D:\SoftUni\2\techmodule\7_CSharp BASICS - MORE EXERCISES\1. X\bin\Debug\_1.X.exe
+D:\SoftUni\2\techmodule\7_CSharp BASICS - MORE EXERCISES\1. X\bin\Debug\_1.X.pdb
+D:\SoftUni\2\techmodule\7_CSharp BASICS - MORE EXERCISES\1. X\obj\Debug\1. X.csprojResolveAssemblyReference.cache
+D:\SoftUni\2\techmodule\7_CSharp BASICS - MORE EXERCISES\1. X\obj\Debug\_1.X.exe
+D:\SoftUni\2\techmodule\7_CSharp BASICS - MORE EXERCISES\1. X\obj\Debug\_1.X.pdb
